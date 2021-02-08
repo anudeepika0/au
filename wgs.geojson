@@ -1,0 +1,1248 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3211459036426,17.7321873455553 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Gandhi Bhavan?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.320530727208,17.7317325439074 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Y.V.S.Murthy Auditorium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3203434472781,17.7312298848403 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Workshop?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3201925159077,17.7308385251732 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Marine Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3196730328555,17.7304891642867 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"IETE Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3195036804125,17.7300227385869 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Dept. of Electronics and Communication Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3188782601002,17.730113181149 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Engineering College Library"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3187092108563,17.7301062166345 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Centre for Nano Technology"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3180490288942,17.730499394755 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Metallurgical Engineering- Annex..?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.317804242619,17.7305178211212 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Metallurgy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3180307939245,17.7298573139105 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Computer Science and System Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3183160071246,17.7293466796968 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Drinking water?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3183145623156,17.7292343696148 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Canteen?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3173108810785,17.7289994637929 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"New Classroom Complex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3185566651768,17.7289590560483 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Electrical Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3187118917988,17.7284732592313 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Examination Block"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3190715660932,17.7279838513777 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Mechanical Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.319720855187,17.7275686927584 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Centre for Research Studies on Offshore Structures"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3195671612375,17.727592018934 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Coastal Engineering Laboratory"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3200095622812,17.7271896413638 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Civil Engineering(Sir Arthur Cotton Bhavan)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3202994010803,17.7264578812961 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Architecture"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3209684712507,17.7268048751669 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Geo Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3212268031976,17.7270157190218 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Telugu?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3210156366722,17.7272721473419 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3207866241791,17.7273047300096 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Health Centre (o rAU North Campus Dispensary)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3208415606832,17.7280849919777 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Andhra Bank"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3216784003718,17.7285327655418 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Chemical Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.323644253318,17.7289743387074 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Instrumentation Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.323807356701,17.7293422491698 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Ladies Hostel Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3204397211084,17.7297436266401 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Basketball Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3202317303836,17.729811211956 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3205193369398,17.7294869619223 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Cricket Nets?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3204212297599,17.7294212038962 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Volleyball Court"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3202462960387,17.7302161339708 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"AUCE Canteen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3195069833161,17.7295957239198 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Tea and Snacks Stall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3198596423375,17.7287066805608 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Principal Block"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3186878205857,17.7296012230868 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Layout Map of AUCE(A)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3193729745019,17.7283196471256 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Dr B.R. Ambedkar Auditorium"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3199426414921,17.7277053910229 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Civil Engineering Classroom Complex?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.320290625023,17.7274608491672 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Civil Gallery"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3206927264449,17.7269260065059 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"NSS?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3203885246352,17.7290359146381 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Principal (or Physical Education) Gallery?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3197799009476,17.7344832124447 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Mdp Gate?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3205544182302,17.7338658135924 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"NCC Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3204747586736,17.7329573853631 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"AU Exhibition Ground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3214356427919,17.732675357781 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Meghana Xerox?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3214776331757,17.7330309611333 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Block-1, Thomas Alva Edison?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3220397246997,17.7333475476108 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Block-2, Thomas Alva Edison?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3227097231281,17.7334740500474 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Block-3, J.C.Bose Hostel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3236306060245,17.7324593739309 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Block for PG (Boys)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3241380306588,17.7304663152321 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Block-4, Rabindranath Tagore Hostel Block"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3238596854134,17.7294293943308 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"In Gate?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3243138530664,17.7295482914914 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Girls Hostels?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3246101799258,17.7293207251497 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"\""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3242913828105,17.7291595963725 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Visitirs Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3248987000503,17.7297929030082 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Girls Hostels? Mother Teresa"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3245835187587,17.7296221722631 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Girls Hostels?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.321540465158,17.7321782482255 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Out Gate"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3213281210702,17.7317569768791 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"AU Teachers Co-op Society?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3252286548291,17.7317612300561 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Block-6, Issac Newton"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3249906771652,17.730906065502 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Block-7,Swami Vivekananda Hostel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3216615064523,17.7299733916309 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"AU Engineering College Ground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3229982209717,17.7287815980795 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Chemical Engineering PG Block"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.320856705486,17.7280440189157 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Girls Waiting Room"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3181905070586,17.7300712989169 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3191069951738,17.7294892737024 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"EEE Labs?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3189983728321,17.7290908402546 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Electrical Engineering?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3191672666901,17.7291342530132 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Siemens Centre of Excellence Additional Labs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.319115796511,17.7285744207782 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Siemens Centre of Excellence Block-2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.319707016407,17.7282588916939 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Siemens Centre of Excellence"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3205286848486,17.7277221958609 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Strength of Materials Lab"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3205573893726,17.7278694350111 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Fluid Mechanics Lab?^(or reverse?)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3219612283884,17.7286047623437 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"NCC 2(A) CTR Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3227033734649,17.7288158531016 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Training and Placement Cell"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3237411378664,17.729324571718 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Sri ..... Polamamba Xerox?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3252264986634,17.7300455732983 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Girls Hostels?Mother Teresa?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3212580942806,17.7254513507522 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"SBI AU Engineering College Branch"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3215179233867,17.7263110442324 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"S.P.Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3216408305015,17.7320172440697 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Pump House"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3217881010071,17.7318338663413 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Maintainance and Plumbing Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3238661921572,17.7296779803197 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Hostel Warden Office?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3201473163101,17.7270398182319 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Civil Engg. Waiting Hall and Girls Washrooms?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3188299883311,17.7300321224472 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Teqip Central Complex"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.319822486872,17.7286778430837 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"AUCE Administrative Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.318082527907,17.729584176612 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Computer Science Engineering"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3201871757628,17.7295708929247 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3195893242004,17.7289028434906 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Indian Institute of Petroleum & Energy"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3204655598979,17.7272290876669 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Layout Map of AUCE(A)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3202195988077,17.7275190870696 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Civil Library"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3195210996498,17.733921948828 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Andhra University Professors Quarters?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3204007647558,17.7340863101649 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"NCC 2(A) CTR Office?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3193417736567,17.7277729131251 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"POSITION? Mechanical Engineering Laboratories"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3194349212471,17.7276863528995 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Abandoned Building"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.320540630965,17.7282048084448 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Survey Lab"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3202895294194,17.7283135323682 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Engineering Chemistry"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.319924506578,17.7285588666946 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Principal Office"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.320036677205,17.7284695888578 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Principal's Chamber"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3194823429352,17.729343575904 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Engineering Physics"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3199008776838,17.7285350116892 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"English?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3198320756907,17.7286146930129 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Net Server Room?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3195431046869,17.7291235808651 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Department of Engineering Mathematics"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3197276873716,17.7287390088515 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Prof. P.S.N.Raju Centre for Computation & Research"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3199218106814,17.728514449744 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Dept of HSS?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3200106218374,17.7284393117067 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Drawing Hall"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3198719106049,17.7285126497402 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"E-Classroom"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3211350827518,17.7280316747768 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Workshop Location?"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3218165352786,17.7282745562967 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"E.D.Location"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3194430012841,17.7287089149488 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Mechanical Engineering Laboratories"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3214039482246,17.7266399418234 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Old Chemistry block????"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3211752282446,17.7268888105996 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Petro Chemical Engg????"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.320426335874,17.7266371638474 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"SAC Room????"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.321889485943,17.7327184867762 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"AUCE Hostel Ground"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3214925233162,17.7325881530983 ]
+    },
+    "properties": {
+    "Id":"0",
+    "name":"Saloon Shop????"
+    }
+  }
+]
+}
